@@ -1,0 +1,4 @@
+idevent	speaker	text	nextevent	LastEventInSequence	imageAsset	audioAsset
+0	Player	Let’s see what's at the end!	1	N	PlayerDialogueImage	randomsound1	$%
+1	Player	Go!	2	Y	PlayerDialogueImageMove	randomsound2	$%
+2	Player	WELL DONE!	-1	Y	PlayerDialogueImageTired	randomsound3	$%
